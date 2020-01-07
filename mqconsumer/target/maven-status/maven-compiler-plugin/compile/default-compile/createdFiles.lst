@@ -1,0 +1,7 @@
+com\mq\consumer\consumer\Producer$1.class
+com\mq\consumer\MqConsumer.class
+com\mq\consumer\entity\EmailEntity$EmailEntityBuilder.class
+com\mq\consumer\entity\EmailEntity.class
+com\mq\consumer\config\ConfigQueue.class
+com\mq\consumer\consumer\Producer.class
+com\mq\consumer\sendthread\SendThreadPool.class

@@ -1,0 +1,9 @@
+spring:
+  activemq:
+    broker-url: tcp://127.0.0.1:11166
+    user: jmh
+    password: 123456
+
+my_queue: my_queue
+server:
+  port: 8089

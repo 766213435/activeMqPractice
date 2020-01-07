@@ -1,0 +1,4 @@
+com\mq\consumer\entity\EmailEntity$EmailEntityBuilder.class
+com\mq\consumer\entity\EmailEntity.class
+com\mq\consumer\consumer\Producer.class
+com\mq\consumer\MqProducer.class
